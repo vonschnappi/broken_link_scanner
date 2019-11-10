@@ -8,7 +8,7 @@ Then, the script sends a request to each URL to see that it responds with either
 If the URL responds with anything else, it's considered a broken link and is logged into a csv.
 
 ## Requirements
-This server stress script makes use of the requests and requests_html python packages. Install them before you run the script.
+This broken link script makes use of the requests and requests_html python packages. Install them before you run the script.
 https://pypi.org/project/requests-html/
 https://2.python-requests.org/en/master/
 
